@@ -1,0 +1,4 @@
+Task Mode,Base Zero-Shot chrF++,Base 3-Shot chrF++,LoRA Fine-Tuned chrF++,Delta vs Zero-Shot,Base Script Purity (%),LoRA Script Purity (%),LoRA Avg Latency (ms)
+codemixed_devanagari,45.36,61.11,72.37,+27.01,13.3,100.0,6470.0
+full_native_devanagari,52.33,61.15,71.18,+18.85,60.0,100.0,6910.0
+romanized_casual,57.56,59.57,63.31,+5.76,100.0,100.0,5151.0

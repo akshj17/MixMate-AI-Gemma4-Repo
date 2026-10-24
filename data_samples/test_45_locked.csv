@@ -1,0 +1,9 @@
+id,task,english,reference
+sample_1,codemixed_devanagari,"The Indian festival organizers partnered with a fintech company to introduce digital payment options like Paytm and UPI for ticket bookings.","भारतीय festival organizers ने एक fintech company के साथ partnership की है ताकि ticket bookings के लिए Paytm और UPI जैसे digital payment options शुरू कर सकें।"
+sample_2,codemixed_devanagari,"Please share the presentation link before the meeting starts.","मीटिंग शुरू होने से पहले कृपया presentation link शेयर कर दें।"
+sample_3,codemixed_devanagari,"Our developer team pushed the bug fix to the production server.","हमारी developer team ने production server पर bug fix पुश कर दिया है।"
+sample_4,full_native_devanagari,"Please share the presentation link before the meeting starts.","मीटिंग शुरू होने से पहले कृपया प्रेजेंटेशन लिंक शेयर कर दें।"
+sample_5,full_native_devanagari,"Our developer team pushed the bug fix to the production server.","हमारी डेवलपर टीम ने प्रोडक्शन सर्वर पर बग फिक्स पुश कर दिया है।"
+sample_6,romanized_casual,"Please remind the developer team to deploy the updated payment gateway before tomorrow morning's client meeting.","Kal subah ki client meeting se pehle developer team ko updated payment gateway deploy karne ke liye remind kar dena."
+sample_7,romanized_casual,"Please share the presentation link before the meeting starts.","Meeting shuru hone se pehle please presentation link share kar dena."
+sample_8,romanized_casual,"Our developer team pushed the bug fix to the production server.","Hamari developer team ne production server par bug fix push kar diya hai."
